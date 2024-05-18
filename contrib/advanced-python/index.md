@@ -1,3 +1,3 @@
 # List of sections
 
-- [Decorators/\*args/**kwargs](decorator-kwargs-args.md)
+- [Classes and objects](classes_objects.md)
